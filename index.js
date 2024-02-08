@@ -2,6 +2,7 @@ const fs = require('fs');
 const inquirer = require('inquirer');
 const questions = require('./lib/questions.js');
 const setShape = require('./lib/setShape.js')
+const fileName = "./examples/logo.svg";
 
 // Creating new SVG file using input from inquirer
 function createLogo(response) {
