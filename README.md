@@ -9,7 +9,6 @@
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Tests](#tests)
-* [Questions](#questions) 
 
 ## Description
 A command-line application that generates an SVG logo based on the user's choice of shape, text, and text color
